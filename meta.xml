@@ -1,0 +1,4 @@
+<meta>
+	<info author="opl" description="This resource allows moving the camera with the middle mouse button while freecam is disabled" version="1.0.0" />
+	<script src="mouse_camera.lua" type="client" />
+</meta>
